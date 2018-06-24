@@ -14,3 +14,6 @@ Support all trading pairs on the CoinPark exchange.
 
 # WebSocket API
 Coming soon
+
+
+中文文档<a href='https://github.com/coinparkcc/API_Docs'>点击这里</a>
