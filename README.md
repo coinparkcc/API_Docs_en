@@ -1,9 +1,9 @@
 CoinPark Exchange provides investors with REST API and WebSocket API to better examine the market quotes and conduct trades.
 # README
 ### CoinPark Exchange
-https://www.coinpark.cc
+https://www.coinpark.com
 ### API Request Path
-https://api.coinpark.cc
+https://api.coinpark.com
 
 # REST API
 Support all trading pairs on the CoinPark exchange.
