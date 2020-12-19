@@ -13,7 +13,8 @@ Support all trading pairs on the CoinPark exchange.
 * [Reference Sample](https://github.com/coinparkcc/REST-API-demos)
 
 # WebSocket API
-Coming soon
+* [API Request and Response Format](https://github.com/coinparkcc/API_Docs_en/wiki/WS_Intro)
+* [API Reference](https://github.com/coinparkcc/API_Docs_en/wiki/WS_Reference)
 
 
 中文文档<a href='https://github.com/coinparkcc/API_Docs'>点击这里</a>
